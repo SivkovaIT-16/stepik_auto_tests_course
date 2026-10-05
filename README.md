@@ -1,2 +1,6 @@
-# stepik_auto_tests_course
+# stepik\_auto\_tests\_course
+
 Задания для прохождения курса "Автоматизация тестирования с помощью Selenium и Python"
+
+Ссылка на курс: https://stepik.org/lesson/187065/step/7?unit=161976
+
