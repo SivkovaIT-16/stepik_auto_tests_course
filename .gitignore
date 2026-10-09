@@ -1,0 +1,5 @@
+# секретные файлы с логинами и паролями
+test_stepik_login.py
+.env
+*.env
+secrets.py
